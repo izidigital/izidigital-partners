@@ -103,5 +103,3 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/izidigital/izidigital-partners # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: [main]
-  message: [deploy to github]
