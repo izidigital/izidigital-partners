@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/izidigital/izidigital-partners # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: [gh-pages]
+  branch: [main]
