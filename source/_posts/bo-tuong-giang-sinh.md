@@ -8,6 +8,8 @@ tags:
 
 Mùa Giáng Sinh là thời khắc gia đình quây quần bên hang đá, thắp nến và để trái tim chạm vào mầu nhiệm Con Thiên Chúa Nhập Thể. **Filumena** giới thiệu bộ **Tượng Giáng Sinh** kết hợp tinh thần truyền thống với mỹ thuật đương đại, phù hợp cho không gian gia đình, giáo xứ, trường học hay điểm mục vụ.
 
+![Tượng giáng sinh Filumena](https://www.filumena.net/_astro/tuong-giang-sinh-filumena.BR1YzmkF_1JvhP4.webp)
+
 **👉 Xem đầy đủ bộ sưu tập tại đây:** [Tượng Giáng Sinh Filumena](https://www.filumena.net/vi/tuong-giang-sinh/)
 
 ---
