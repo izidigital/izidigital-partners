@@ -1,6 +1,6 @@
 ---
-title: Tượng Giáng sinh của Filumena
-date: 2025-10-20 21:45:08
+title: Bộ tượng Giáng sinh 2025 của Filumena
+date: 2025-10-20 22:21:08
 tags:
 ---
 
@@ -8,7 +8,6 @@ tags:
 
 Mùa Giáng Sinh là thời khắc gia đình quây quần bên hang đá, thắp nến và để trái tim chạm vào mầu nhiệm Con Thiên Chúa Nhập Thể. **Filumena** giới thiệu bộ **Tượng Giáng Sinh** kết hợp tinh thần truyền thống với mỹ thuật đương đại, phù hợp cho không gian gia đình, giáo xứ, trường học hay điểm mục vụ.
 
-![Tượng Giáng sinh Filumena](https://www.filumena.net/_astro/tuong-chua-hai-dong-1.CpMMqOTA.webp)
 **👉 Xem đầy đủ bộ sưu tập tại đây:** [Tượng Giáng Sinh Filumena](https://www.filumena.net/vi/tuong-giang-sinh/)
 
 ---
@@ -50,3 +49,4 @@ Tượng Giáng Sinh không chỉ là trang trí, mà là “bài giáo lý bằ
 **👉 [Tượng Giáng Sinh Filumena](https://www.filumena.net/vi/tuong-giang-sinh/)**
 
 > Filumena hân hạnh đồng hành để cái đẹp thánh thiện trở nên gần gũi – và để việc thiện lan tỏa xa hơn trong mùa Noel.
+
