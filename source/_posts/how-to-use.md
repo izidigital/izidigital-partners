@@ -30,11 +30,11 @@ openssl: 1.0.1p
 
 ### 2. Create a project for your GitHub Pages
 ```
-$ hexo init yt8yt.github.io
-INFO  Copying data to ~/***/yt8yt.github.io
+$ hexo init project-folder-name
+INFO  Copying data to ~/***/project-folder-name
 INFO  You are almost done! Don't forget to run 'npm install' before you start blogging with Hexo!
 
-$ cd yt8yt.github.io
+$ cd project-folder-name
 
 $ npm install
 ```

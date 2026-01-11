@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: izi Digital
+title: Blog Tượng Công Giáo
 subtitle: ""
-description: ""
+description: "Chia sẻ về tượng Công giáo và nghệ thuật Thánh"
 keywords:
-author: izi Digital
+author: Vincent
 language: en
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://izidigital-partners.pages.dev/
-permalink: :year/:month/:day/:title/
+url: https://tuongconggiao.org/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
